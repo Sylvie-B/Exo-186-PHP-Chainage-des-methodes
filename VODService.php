@@ -6,8 +6,6 @@ class VODService
     private string $name;
     private float $price;
 
-
-
     /**
      * @return string
      */
